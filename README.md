@@ -1,1 +1,1 @@
-# 3d_pose_multiview
+# A Simple baseline for multi-view 3d human pose estimation
